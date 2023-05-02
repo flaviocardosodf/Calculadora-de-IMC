@@ -10,4 +10,4 @@ Aplicação desenvolvida para que a pessoa posso calcular o seu Indice de Massa 
 
 ![image](https://user-images.githubusercontent.com/91389303/235620196-d2adc224-93ec-4fa0-81ad-40d759a0c9d8.png)
 
-Você pode testar [aqui(https://flaviocardosodf.github.io/Calculadora-de-IMC/)]
+Você pode testar [aqui](https://flaviocardosodf.github.io/Calculadora-de-IMC/)

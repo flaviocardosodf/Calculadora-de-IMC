@@ -6,8 +6,11 @@ let resultado;
 function calcularIMC(event) {
     event.preventDefault();
 
-    peso = Number(document.querySelector("#peso").value);
-    altura = Number(document.querySelector("#altura").value);
+    const pesoCapurado = document.querySelector("#peso").value;
+    const alturaCapturada = document.querySelector("#altura").value;
+
+    peso = parseFloat(pesoCapurado.replace(",", "."));
+    altura = parseFloat(alturaCapturada.replace(",", "."));
 
     imc = peso / (altura*altura);
 
